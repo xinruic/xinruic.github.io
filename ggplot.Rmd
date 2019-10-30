@@ -12,6 +12,7 @@ knitr::opts_chunk$set(cache=TRUE, tidy=FALSE,error=FALSE, message=FALSE, warning
 ## Introduction
 
 Exploratory data analysis is a loosely defined process. It is roughly the part between loading data in and the formal analysis you will perform. It includes (but is not limited to)
+
   * Visualization
   * Checks for data completeness and reliability
   * Quantification of variability
